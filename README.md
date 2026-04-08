@@ -17,10 +17,14 @@ Focus      :: Array Programming, Stochastic Calculus, Signal Processing (EKF)
 ### ⚡ Infrastructure & Stack
 I specialize in high-frequency computational bottlenecks, zero-loop architectures, and non-linear system estimation. 
 
-* **Languages:** `K (K3, Kdb+/Q)` | `Python` | `PHP` | `MATLAB` | `R Studio` | 
-* **Quant Modeling:** Volatility Surfaces | Stochastic & Local Volatility | Extended Kalman Filters 
-* **Mathematics:** Combinatorial Cluster Algebras | Differential Geometry | Stochastic Calculus
-
+* **Languages:** `K (K3, Kdb+/Q)` | `Python` | `PHP` | `MATLAB` | `R Studio` 
+* **Quantitative Research & Modeling:** *
+  * *Derivatives:* FX Vanilla/Exotic Pricing, Volatility Surfaces, Hybrid Pricing Engines, Advanced Greeks.
+  * *Stochastics:* Local & Stochastic Volatility Models, Monte Carlo Simulations, SDEs.
+  * *Signal Processing:* Extended Kalman Filters (EKF), Non-Linear System Estimation, Sensor Fusion.
+* **Applied & Pure Mathematics:** *
+  * *Continuous:* Stochastic Calculus, Differential Geometry, Complex Analysis, Numerical Methods.
+  * *Discrete/Abstract:* Combinatorial Cluster Algebras, Galois Theory, Rings & Fields, Topology, Number Theory.
 ---
 
 ### 🚀 Featured Architecture
