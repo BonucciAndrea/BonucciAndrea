@@ -44,6 +44,11 @@ I specialize in high-frequency computational bottlenecks, zero-loop architecture
 * **The Goal:** Bypassing traditional iterative bottlenecks to stress-test high-frequency trading strategies at maximum execution speed. 
 * **Status:** Actively scaling strategy coverage (Mean Reversion, StatArb) to benchmark core architecture latency.
 
+**[`BonucciAndrea/BlackScholesExpectedMove`](https://github.com/BonucciAndrea/BlackScholesExpectedMove)** *Real-time Implied Volatility solver and probabilistic market move calculator built in Python.*
+* **The Math:** Implements a **Newton-Raphson root-finding algorithm** to dynamically back out Implied Volatility (IV) from the Black-Scholes-Merton model, utilizing custom Vega derivatives.
+* **The Goal:** Ingesting live options chains and dynamic risk-free rates (13-week Treasury yields) to locate ATM strikes, calculate implied volatility, and project mathematical boundaries for expected asset moves.
+* **Status:** Actively extending the root-finding logic across entire option chains to construct real-time volatility surfaces and map volatility smiles.
+
 ---
 
 ### 📡 Current Processes
