@@ -27,7 +27,7 @@ abonucci@ubuntu:~$ ./fetch_profile.sh --target=HFT
 ### ⚡ Infrastructure & Stack
 I specialize in high-frequency computational bottlenecks, zero-loop architectures, and non-linear system estimation. 
 
-* **Languages:** `K (K3, Kdb+/Q)` | `Python` | `PHP` | `MATLAB` | `R Studio` 
+* **Languages:** `K (K3, K6, Kdb+/Q)` | `Python` | `PHP` | `MATLAB` | `R Studio` 
 * **Quantitative Research & Modeling:**
   * *Derivatives:* FX Vanilla/Exotic Pricing, Volatility Surfaces, Hybrid Pricing Engines, Advanced Greeks.
   * *Stochastics:* Local & Stochastic Volatility Models, Monte Carlo Simulations, SDEs.
@@ -39,7 +39,7 @@ I specialize in high-frequency computational bottlenecks, zero-loop architecture
 
 ### 🚀 Featured Architecture
 
-**[`BonucciAndrea/KonaStrategies`](https://github.com/BonucciAndrea/KonaStrategies)** *High-performance, zero-loop quantitative backtesting engine built entirely in Kona.*
+**[`BonucciAndrea/KStrategies`](https://github.com/BonucciAndrea/KStrategies)** *High-performance, zero-loop quantitative backtesting engine built entirely in Kona and ngn/k.*
 * **The Math:** Implements an `O(N)` prefix-sum architecture for ultra-low latency grid searches.
 * **The Goal:** Bypassing traditional iterative bottlenecks to stress-test high-frequency trading strategies at maximum execution speed. 
 * **Status:** Actively scaling strategy coverage (Mean Reversion, StatArb) to benchmark core architecture latency.
