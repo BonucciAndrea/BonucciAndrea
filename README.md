@@ -16,7 +16,7 @@ abonucci@ubuntu:~$ ./fetch_profile.sh --target=HFT
 > Vrije Universiteit Amsterdam    | BSc Pure Mathematics 
 
 ==== TECHNICAL INFRASTRUCTURE ====
-> Main Languages : K (Kdb+/Q), Python
+> Main Languages : K (K3, K6, Kdb+/Q), Python
 > Methodologies : Array Programming, Zero-Loop Architecture, Low-Latency Execution
 > Signal Process : Non-Linear Estimation, Extended Kalman Filters (EKF)
 > Pricing/Risk : Stochastic Volatility, Hybrid Pricing Engines, Advanced Greeks
