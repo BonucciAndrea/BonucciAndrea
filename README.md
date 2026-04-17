@@ -39,10 +39,10 @@ I specialize in high-frequency computational bottlenecks, zero-loop architecture
 
 ### 🚀 Featured Architecture
 
-**[`BonucciAndrea/KStrategies`](https://github.com/BonucciAndrea/KStrategies)** *High-performance, zero-loop quantitative backtesting engine built entirely in Kona and ngn/k.*
+**[`BonucciAndrea/KStrategies`](https://github.com/BonucciAndrea/KStrategies)** *High-performance, zero-loop quantitative backtesting engine built entirely in Kdb+/Q, Kona and Ngn/K.*
 * **The Math:** Implements an `O(N)` prefix-sum architecture for ultra-low latency grid searches.
 * **The Goal:** Bypassing traditional iterative bottlenecks to stress-test high-frequency trading strategies at maximum execution speed. 
-* **Status:** Actively scaling strategy coverage (Mean Reversion, StatArb) to benchmark core architecture latency.
+* **Status:** Actively scaling strategy coverage (Mean Reversion, StatArb, Momentum Oscillator) to benchmark core architecture latency.
 
 **[`BonucciAndrea/BlackScholesExpectedMove`](https://github.com/BonucciAndrea/BlackScholesExpectedMove)** *Real-time Implied Volatility solver and probabilistic market move calculator built in Python.*
 * **The Math:** Implements a **Newton-Raphson root-finding algorithm** to dynamically back out Implied Volatility (IV) from the Black-Scholes-Merton model, utilizing custom Vega derivatives.
