@@ -39,6 +39,11 @@ I specialize in high-frequency computational bottlenecks, zero-loop architecture
 
 ### 🚀 Featured Architecture
 
+**[`BonucciAndrea/kdb-hft-tickerplant`](https://github.com/BonucciAndrea/kdb-hft-tickerplant)** *Production-grade, fault-tolerant options tickerplant architecture built in Kdb+/Q.*
+* **The Tech:** Distributed system featuring a Tickerplant (Log/Router), RDB (In-Memory), HDB (On-Disk), and a Parallel Gateway.
+* **The Goal:** Simulating a high-frequency environment with a 250ms data generator, implementing zero-data-loss disaster recovery via binary log replaying and asynchronous parallel query execution.
+* **Status:** Operational. Benchmark testing unified historical/real-time data stitching via high-concurrency Gateway handlers.
+
 **[`BonucciAndrea/KStrategies`](https://github.com/BonucciAndrea/KStrategies)** *High-performance, zero-loop quantitative backtesting engine built entirely in Kdb+/Q, Kona and Ngn/K.*
 * **The Math:** Implements an `O(N)` prefix-sum architecture for ultra-low latency grid searches.
 * **The Goal:** Bypassing traditional iterative bottlenecks to stress-test high-frequency trading strategies at maximum execution speed. 
